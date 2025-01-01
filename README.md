@@ -23,5 +23,6 @@ This project is a simple CV analysis web tool. The backend uses FastAPI to proce
 * pydantic 2.10.4
 * python-dotenv 1.0.1
 
+## Features
 <img width="1512" alt="Screenshot 2024-12-31 at 10 28 44 PM" src="https://github.com/user-attachments/assets/16e4fd7e-68ef-4f29-89a9-d078e8c3fa96" />
-
+<img width="1509" alt="Screenshot 2024-12-31 at 10 27 23 PM" src="https://github.com/user-attachments/assets/3a34988a-e72f-46ff-931a-8b49a384ae6a" />

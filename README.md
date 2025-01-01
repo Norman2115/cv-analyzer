@@ -27,3 +27,5 @@ This project is a simple CV analysis web tool. The backend uses FastAPI to proce
 <img width="1512" alt="Screenshot 2024-12-31 at 10 28 44 PM" src="https://github.com/user-attachments/assets/16e4fd7e-68ef-4f29-89a9-d078e8c3fa96" />
 <img width="1509" alt="Screenshot 2024-12-31 at 10 27 23 PM" src="https://github.com/user-attachments/assets/3a34988a-e72f-46ff-931a-8b49a384ae6a" />
 <img width="1510" alt="Screenshot 2024-12-31 at 10 27 58 PM" src="https://github.com/user-attachments/assets/3fc01ee2-91bf-4066-a40a-f0379fbff38f" />
+<img width="1512" alt="Screenshot 2024-12-31 at 10 28 20 PM" src="https://github.com/user-attachments/assets/0753fa05-d888-478d-9636-0c4c0ec3e0e6" />
+<img width="1512" alt="Screenshot 2024-12-31 at 10 28 30 PM" src="https://github.com/user-attachments/assets/def49983-397a-4b06-9c7f-a88f826f3d1b" />

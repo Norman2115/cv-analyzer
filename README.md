@@ -36,16 +36,22 @@ This project is a simple CV analysis web tool. The backend uses FastAPI to proce
 
 <img width="1509" alt="Screenshot 2024-12-31 at 10 27 23 PM" src="https://github.com/user-attachments/assets/3a34988a-e72f-46ff-931a-8b49a384ae6a" />
 
+---
+
 ### Skills & Experience Assessment
 * View a comprehensive evaluation of the candidate's resume and work experience.
 
 <img width="1510" alt="Screenshot 2024-12-31 at 10 27 58 PM" src="https://github.com/user-attachments/assets/3fc01ee2-91bf-4066-a40a-f0379fbff38f" />
+
+---
 
 ### Skill Matching
 * Show both skills identified in the CV that match the job description.
 * Show skills identified in the CV that do not directly align with the job requirements.
 
 <img width="1512" alt="Screenshot 2024-12-31 at 10 28 20 PM" src="https://github.com/user-attachments/assets/0753fa05-d888-478d-9636-0c4c0ec3e0e6" />
+
+---
 
 ### Final Report & Download
 * Receive a final report summarizing the analysis findings, including an overall suitability assessment for the job.

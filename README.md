@@ -22,3 +22,5 @@ This project is a simple CV analysis web tool. The backend uses FastAPI to proce
 * jamaibase 0.3.0
 * pydantic 2.10.4
 * python-dotenv 1.0.1
+
+![Uploading Screenshot 2024-12-31 at 10.28.44 PM.png…]()

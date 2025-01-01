@@ -25,7 +25,7 @@ This project is a simple CV analysis web tool. The backend uses FastAPI to proce
 
 ## Features
 ### Upload CV and Job Description
-* Upload your CV or resume in supported formats (e.g., PDF, DOCX) and job description for analysis.
+* Upload your CV or resume in supported formats (PDF) and job description for analysis.
 
 <img width="1512" alt="Screenshot 2024-12-31 at 10 28 44 PM" src="https://github.com/user-attachments/assets/16e4fd7e-68ef-4f29-89a9-d078e8c3fa96" />
 

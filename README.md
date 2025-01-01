@@ -29,6 +29,8 @@ This project is a simple CV analysis web tool. The backend uses FastAPI to proce
 
 <img width="1512" alt="Screenshot 2024-12-31 at 10 28 44 PM" src="https://github.com/user-attachments/assets/16e4fd7e-68ef-4f29-89a9-d078e8c3fa96" />
 
+---
+
 ### Instant CV Summary
 * Receive a concise summary of the candidate's qualifications and experience immediately after processing.
 
@@ -40,7 +42,8 @@ This project is a simple CV analysis web tool. The backend uses FastAPI to proce
 <img width="1510" alt="Screenshot 2024-12-31 at 10 27 58 PM" src="https://github.com/user-attachments/assets/3fc01ee2-91bf-4066-a40a-f0379fbff38f" />
 
 ### Skill Matching
-* Show both skills identified in the CV that match the job description and skills identified in the CV that do not directly align with the job requirements.
+* Show both skills identified in the CV that match the job description.
+* Show skills identified in the CV that do not directly align with the job requirements.
 
 <img width="1512" alt="Screenshot 2024-12-31 at 10 28 20 PM" src="https://github.com/user-attachments/assets/0753fa05-d888-478d-9636-0c4c0ec3e0e6" />
 

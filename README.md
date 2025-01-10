@@ -1,4 +1,4 @@
-# CV Analyzer
+# AI-Powered CV Analyzer
 ## Description
 This project is a simple CV analysis web tool. The backend uses FastAPI to process CVs by interacting with JamAI Base. JamAI Base is a powerful platform for AI-powered applications. This integration allows for CV analysis using AI without the need for managing complex AI infrastructure. The frontend, built with React, is responsible for receiving CV/Resume and job description as inputs and displaying the analysis results.
 
